@@ -1,3 +1,12 @@
-#search {
-    margin-top: 20px;
+#main {
+    margin-top: 30px;
+}
+
+#buttons {
+    margin-top: 25px;
+}
+
+#noDec {
+    color: inherit;
+    text-decoration: none;
 }
